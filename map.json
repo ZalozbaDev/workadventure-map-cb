@@ -337,7 +337,7 @@
         {
          "columns":10,
          "firstgid":455,
-         "image":"..\/workadventure-map\/src\/assets\/tileset5_export.png",
+         "image":"src\/assets\/tileset5_export.png",
          "imageheight":320,
          "imagewidth":320,
          "margin":0,
@@ -356,7 +356,7 @@
         {
          "columns":11,
          "firstgid":555,
-         "image":"..\/workadventure-map\/src\/assets\/tileset1.png",
+         "image":"src\/assets\/tileset1.png",
          "imageheight":352,
          "imagewidth":352,
          "margin":0,
